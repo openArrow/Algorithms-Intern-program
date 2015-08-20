@@ -1,0 +1,9 @@
+$ gcc btree.c
+$ a.out
+Enter the Number of elements: 10
+9 1 5 2 77 4 22 8 12 56
+Binary tree sort.
+
+In-order traversal of binary tree:
+1 2 4 5 8 9 12 22 56 77 
+

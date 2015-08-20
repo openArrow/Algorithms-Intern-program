@@ -1,0 +1,34 @@
+$ gcc binary_search.c
+$ ./a.out
+
+Select a choice from the menu below.
+1. Insert a node.
+2. Search for a node.
+Choice: 1
+
+Enter an element: 65
+
+If you want to return to the menu, press 1.
+Choice: 1
+
+Select a choice from the menu below.
+1. Insert a node.
+2. Search for a node.
+Choice: 1
+
+Enter an element: 21
+
+If you want to return to the menu, press 1.
+Choice: 1
+
+Select a choice from the menu below.
+1. Insert a node.
+2. Search for a node.
+Choice: 2
+
+Enter the element to be searched for: 65
+
+Value found!
+If you want to return to the menu, press 1.
+Choice: 2
+

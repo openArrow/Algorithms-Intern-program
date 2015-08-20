@@ -1,0 +1,11 @@
+$ gcc comb_string.c 
+$ a.out
+Enter a string: abc
+Permutaions:
+abc
+acb
+bac
+bca
+cba
+cab
+

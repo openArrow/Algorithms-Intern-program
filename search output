@@ -1,0 +1,11 @@
+$ gcc search.c
+$ ./a.out
+Enter the size of the list:10
+Enter 10 Integers in ascending order
+2 5 8 12 16 25 31 45 48 55
+Enter value to find
+16
+sequential search
+16 found at location 5.
+Binary search
+16 found at location 5.

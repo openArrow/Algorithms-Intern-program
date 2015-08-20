@@ -1,0 +1,10 @@
+$ gcc interpolation.c
+$ ./a.out
+
+Enter total elements (num< 200) : 10
+Enter 10 Elements in ascending order: 1 5 9 12 16 18 25 56 76 78
+
+Search For : 25
+
+Element 25 found at position 7
+
